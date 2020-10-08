@@ -4,8 +4,8 @@
   JavaScript library that allows you to do more with less code. In this this project, I use JQuery to add some basic animation to my html page. 
 </p>
 
-### View of Web Page:
-<img src="/Images/jquery.gif" alt="view of web page">
+### Demo of Web Page:
+<img src="/Images/jquery.gif" alt="Demo view of web page">
 <hr/>
 
 ### Use of code:
