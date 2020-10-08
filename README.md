@@ -1,8 +1,6 @@
 # first-jquery-project
-<p>
-  First look at JQuery.<br/>
-  JavaScript library that allows you to do more with less code. In this this project, I use JQuery to add some basic animation to my html page. 
-</p>
+<p>First look at JQuery.</P>
+<p>JavaScript library that allows you to do more with less code. In this this project, I use JQuery to add some basic animation to my html page.</p>
 <p>This page add a lot of user interaction to the web page.</p>
 
 ### Demo of Web Page:
