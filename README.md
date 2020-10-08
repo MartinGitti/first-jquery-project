@@ -4,6 +4,9 @@
 <p>This page add a lot of user interaction to the web page.</p>
 
 ### Demo of Web Page:
+* This web page has some basic html elements.
+* This web page makes use of a jQuery library.
+* The page offers alerts, animation, styling changes, fade-in & fade-outs, accordian dropdown lists, chained effects along with a few other jQuery effects.
 <img src="/Images/jquery.gif" alt="Demo view of web page">
 <hr/>
 
